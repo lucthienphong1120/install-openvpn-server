@@ -1,8 +1,8 @@
 # OpenVPN-Server-Guide
 
 Guide for setup and usage OpenVPN Server/Client
-
-See the 
++ See the [install-openvpn-server](./install-openvpn-server.md) for Server Guide
++ See the [openvpn-user-guide](./openvpn-user-guide.md) for Client Guide
 
 # Editing this README
 
