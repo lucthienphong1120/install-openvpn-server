@@ -5,6 +5,24 @@ Guide for setup and usage OpenVPN Server/Client
 + See the [openvpn-user-guide](./openvpn-user-guide.md) for Client Guide
 + Use the [manage_client_vpn.sh](./manage_client_vpn.sh) to automatically manage the client VPN
 
+```sh
+root@ip-10-10-1-142:~# ./manage_client_vpn.sh
+Usage: ./manage_client_vpn.sh {option} [username]
+Options:
+  -h, --help: Print help
+  -n, --new: Create new user
+  -l, --list: List all users
+  -d, --delete: Delete user
+```
+
+## Release update
+
+[x] Synthesize and functionalize into a single file
+[x] Check and validate input
+[x] Allows user creation/delete from parameters or manually input
+[x] Extracting user information including password
+[x] Command line parameter help instructions
+
 # Editing this README
 
 When you're ready to make this README your own, just edit this file and use the handy template below (or feel free to structure it however you want - this is just a starting point!). Thanks to [makeareadme.com](https://www.makeareadme.com/) for this template.
