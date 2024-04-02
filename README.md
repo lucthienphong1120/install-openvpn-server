@@ -17,11 +17,11 @@ Options:
 
 ## Release update
 
-[x] Synthesize and functionalize into a single file
-[x] Check and validate input
-[x] Allows user creation/delete from parameters or manually input
-[x] Extracting user information including password
-[x] Command line parameter help instructions
+- [x] Synthesize and functionalize into a single file
+- [x] Check and validate input
+- [x] Allows user creation/delete from parameters or manually input
+- [x] Extracting user information including password
+- [x] Command line parameter help instructions
 
 # Editing this README
 
