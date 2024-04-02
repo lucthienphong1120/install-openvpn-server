@@ -3,6 +3,7 @@
 Guide for setup and usage OpenVPN Server/Client
 + See the [install-openvpn-server](./install-openvpn-server.md) for Server Guide
 + See the [openvpn-user-guide](./openvpn-user-guide.md) for Client Guide
++ Use the [manage_client_vpn.sh](./manage_client_vpn.sh) to automatically manage the client VPN
 
 # Editing this README
 

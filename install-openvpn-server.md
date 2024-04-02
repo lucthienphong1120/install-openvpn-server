@@ -3,7 +3,7 @@
 ### Lưu ý:
 
 Ở đây sẽ cần 2 pass là
-+ CA passphrase của server: `crf` -> dùng để config cert và key
++ CA passphrase của server: `ps` -> dùng để config cert và key
 + Client private key password: `secret@123` -> dùng để client authen
 
 ```
@@ -81,7 +81,7 @@ sudo ufw allow OpenVPN
 
 Tạo 1 file ip.txt với nội dung là public ip của server
 
-`echo 15.134.95.127 > ip.txt`
+`echo 18.143.92.195 > ip.txt`
 
 ### Gen client keys
 
